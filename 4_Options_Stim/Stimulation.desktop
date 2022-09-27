@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Stimulation
+Exec=/home/pi/Documents/Sleep_GUI.py
+Path=/home/pi/Documents/
+Icon=/home/pi/Documents/icon.png
+Type=Application
+Terminal=false
